@@ -8,7 +8,7 @@ This project is a simple yet powerful web app that extracts text from any image 
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the app]([https://imagesummarizer-ghmbhwkbdkumnmtiya8pau.streamlit.app/](https://imagetotextsummariser-82038thisismyfirstdeployedproject.streamlit.app/))
+🔗 [Click here to try the app](https://imagesummarizer-ghmbhwkbdkumnmtiya8pau.streamlit.app/](https://imagetotextsummariser-82038thisismyfirstdeployedproject.streamlit.app/)
 
 ---
 
